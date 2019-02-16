@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Tracker_GUI.jnlp">
+  <information>
+    <title>Tracker</title>
+    <vendor>Ishtiaq Niloy</vendor>
+    <description>Tracker_GUI</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Tracker_GUI.jar" size="9497" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="Tracker.Main"  name="Tracker_GUI" />
+  <update check="background"/>
+</jnlp>
