@@ -1,4 +1,4 @@
-# Torrent_Manager
+# Torrent-Manager
 CSE 108 Torrent_Manager Project developed using JavaFX and Java socket programming.
 
 In this project, we have not implemented an actual torrent client which could be used instead of bittorrent. Rather, we have created a customized torrent like system to download files from multiple sources and also send data to multiple downloaders simultaneously with the help of a tracker. 
